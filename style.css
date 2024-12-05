@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .navbar{
     background-color: rgba(38,40,45,255);
     overflow: hidden;
@@ -40,24 +44,31 @@ a:hover{
 .Ser{
     text-align: center;
     background-color: white;
+    margin-top: 70px;
+    margin-bottom: 40px;
 }
 #ser{
     font-weight: bolder;
     font-size: 25pt;
+    margin-bottom: 20px;
 } 
 
 .serv_desc{
 overflow: hidden;
+margin-left: 100px;
+margin-right: 100px;
 }
 
 .s{
     float: left;
     width: 30%;
     text-align: center;
-    margin: 30px;
+    margin: 24px;
 }
 
 .bold{
     font-weight: bolder;
     font-size: 15pt;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
